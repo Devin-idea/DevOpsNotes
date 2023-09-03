@@ -59,4 +59,4 @@ ngrok http 80
 
 ### Step 5: Change "Jenkins URL" to the public URL
 
-![Alt text](images/expose-jenkins-to-public-internet-05.png?raw=true)
+![image-20230903223816488](/Users/devin/Library/Application Support/typora-user-images/image-20230903223816488.png)

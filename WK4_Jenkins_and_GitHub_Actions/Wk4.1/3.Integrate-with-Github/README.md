@@ -12,15 +12,15 @@ This is to demo how to integrate Jenkins with a Github Orgnisation
 
 ### Step 1: Go to Jenkins Dashboard and click on the “New Item ” link to create a new job highlighted in the red rectangle
 
-![Alt text](images/integrate-with-github-org-01.png?raw=true)
+![image-20230903224257156](/Users/devin/Library/Application Support/typora-user-images/image-20230903224257156.png)
 
 ### Step 2: Now do the following steps further for a selection of project
 
-![Alt text](images/6-Selection-of-Project.jpeg?raw=true)
+![image-20230903224427207](/Users/devin/Desktop/Projects/Devops/DevOpsNotes/WK4_Jenkins_and_GitHub_Actions/Wk4.1/3.Integrate-with-Github/images/image-20230903224427207.png)
 
 ### Step 3: Now just scroll down and go to the Source Code Management section. Now, select the “Git ” option
 
-![Alt text](images/8-Jenkins-github-integration-Source-Code-Management-section-using-Git-Plugin.jpeg?raw=true)
+![image-20230903224708093](/Users/devin/Library/Application Support/typora-user-images/image-20230903224708093.png)
 
 ### Step 4: Now enter the repository URL as shown in the below image
 
